@@ -13,4 +13,4 @@
 - **art** &mdash; Macromedia Flash 8; mspaint; PaintDotNet
 - **animation** &mdash; Macromedia Flash 8; Animate CC 2019
 - **graphix** &mdash; Photoshop 2022
-- **coding** &mdash; Visual Studio Code
+- **coding** &mdash; Visual Studio Code; notepad++
